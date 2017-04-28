@@ -1,0 +1,4 @@
+node_modules/
+playground/
+config/
+public/bundle.js
